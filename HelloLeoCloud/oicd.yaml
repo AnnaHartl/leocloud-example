@@ -10,3 +10,4 @@ users:
       - --oidc-issuer-url=ISSUER_URL
       - --oidc-client-id=YOUR_CLIENT_ID
       - --oidc-client-secret=YOUR_CLIENT_SECRET
+ 
